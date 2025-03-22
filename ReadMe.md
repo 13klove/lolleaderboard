@@ -35,6 +35,7 @@
 - consumer 에서는 transaction 이 실패하는 경우는 어떻게 처리해야하는지 조금 더 고민이 필요합니다.
 - aggregation 을 어떻게 해야할지 고민이 필요합니다.
 - checkpoint pattern을 고민해 본다.
+- outbox 를 대신할 cdc를 고민한다.
 
 ## 시퀀스다이어그램
 

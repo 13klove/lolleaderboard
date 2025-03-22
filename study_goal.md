@@ -38,5 +38,3 @@ basic sample
 1) 각자 넣어보고 싶은 기능 구현 및 리뷰
 
 개인적으로 참고한 link: https://medium.com/@mayilb77/design-a-real-time-leaderboard-system-for-millions-of-users-08b96b4b64ce
-
-참여자: 명길, 혁빈, 
